@@ -39,13 +39,13 @@ Upon executing the script, users will be warned that files within the specified 
 
 Below is an example file tree of **ALL** files that would remain for a single subject using the current version of this script, where all working directory, output, and log files were located in the directory targeted. This data was derived from the default fMRIPrep pipeline, with no extra output spaces specified.
 
-* derivatives
+* derivatives /
   * sub-001.html
-  * logs
+  * logs /
     * CITATION.html
     * emissions.csv
-  * sub-001
-    * anat
+  * sub-001 /
+    * anat /
       * sub-001_desc-brain_mask.json
       * sub-001_desc-brain_mask.nii.gz
       * sub-001_desc-preproc_T1w.json
@@ -54,7 +54,7 @@ Below is an example file tree of **ALL** files that would remain for a single su
       * sub-001_space-MNI152NLin6Asym_res-2_desc-brain_mask.nii.gz
       * sub-001_space-MNI152NLin6Asym_res-2_desc-preproc_T1w.json
       * sub-001_space-MNI152NLin6Asym_res-2_desc-preproc_T1w.nii.gz
-    * figures
+    * figures /
       * sub-001_desc-about_T1w.html
       * sub-001_desc-conform_T1w.html
       * sub-001_desc-reconall_T1w.svg
@@ -69,7 +69,7 @@ Below is an example file tree of **ALL** files that would remain for a single su
       * sub-001_task-stopsignal_desc-rois_bold.svg
       * sub-001_task-stopsignal_desc-summary_bold.html
       * sub-001_task-stopsignal_desc-validation_bold.html
-    * func
+    * func /
       * sub-001_task-stopsignal_desc-confounds_timeseries.json
       * sub-001_task-stopsignal_desc-confounds_timeseries.tsv
       * sub-001_task-stopsignal_space-MNI152NLin6Asym_res-2_desc-brain_mask.json
