@@ -161,7 +161,7 @@ elif method == 'sim_copy':
 		print("You have selected SIMULATION COPY mode. Target files will be copied to create a replica of how your fMRIPrep data would look after cleanup (deleting), within your provided output directory {}{}'{}'{}.".format(BOLD, GREEN, out_path, RESET))
 	else:
 		print("You have selected SIMULATION COPY mode. Target files will be copied to create a replica of how your fMRIPrep data would look after cleanup (deleting), in your current working directory.")
-	print("This will include the creation of 'Deleted' and 'Retained' folders, so you can check that you'd keep what you'd expect to keep, and nothing important would be deleted. Please be sure to delete the copied directory after you've checked this, to avoid using unecessary storage.")	
+	print("This will include the creation of 'Deleted' and 'Retained' folders, so you can check that you'd keep what you'd expect to keep, and nothing important would be deleted. Please be sure to delete the copied directory after you've checked this, to avoid using unnecessary storage.")	
 	print("Files in your original directory will not be impacted. This will simulate deleting all files within {}{}'{}'{} that do not contain one of the following strings:".format(BOLD, RED, fmriprep_dir, RESET))
 
 #If deletion mode is selected, the warning of what is about to happen is clearly printed.
