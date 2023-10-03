@@ -243,11 +243,11 @@ if sub_folder_found and preproc_found:
 	print("fMRIPrep folder appears to contain fMIRPrep output...")
 elif sub_folder_found:
 	print("This does not appear to be an fMRIPrep output folder. While it contains folders with the string 'sub' in their name, no files within contain the string 'preproc' (preprocessed files).")
-	print("Please carefully check your provided fMRIPrep directory ({}{}{}{}) before proceeding. Do you want to continue?".format(BOLD, RED, fmriprep_dir, RESET))
+	print("Please carefully check your provided fMRIPrep directory ({}{}{}{}) before proceeding.".format(BOLD, RED, fmriprep_dir, RESET))
 	continue_check()
 else:
 	print("This does not appear to be an fMRIPrep output folder, as it does not contain any folders with the string 'sub-' in their name.")
-	print("Please carefully check your provided fMRIPrep directory ({}{}{}{}) before proceeding. Do you want to continue?".format(BOLD, RED, fmriprep_dir, RESET))
+	print("Please carefully check your provided fMRIPrep directory ({}{}{}{}) before proceeding.".format(BOLD, RED, fmriprep_dir, RESET))
 	continue_check()
 
 # ----------------------------------------- SIMULATION MODE ----------------------------------------
