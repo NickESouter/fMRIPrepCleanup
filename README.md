@@ -2,9 +2,9 @@
 
 IMPROPER USE OF THIS SCRIPT COULD RESULT IN THE UNINTENDED DELETION OF IMPORTANT FILES. PLEASE READ THIS DOCUMENT IN FULL BEFORE EXECUTING.
 
-As well as reading this file, consider watching the following video, which provides an overview of how the tool works, and same examples of usage.
+As well as reading this file, consider watching the following video, which provides an overview of how the tool works, and some examples of usage.
 
-[![Link to 'fMRIPrepCleanup: Instructions for use' video](https://www.youtube.com/watch?v=HuZPLBJvA9c/0.jpg)](https://www.youtube.com/watch?v=HuZPLBJvA9c)
+[![Link to 'fMRIPrepCleanup: Instructions for use' video](https://www.youtube.com/vi/watch?v=HuZPLBJvA9c/0.jpg)](https://www.youtube.com/watch?v=HuZPLBJvA9c)
 
 ## Background
 
