@@ -4,7 +4,7 @@ IMPROPER USE OF THIS SCRIPT COULD RESULT IN THE UNINTENDED DELETION OF IMPORTANT
 
 As well as reading this file, consider watching the following video, which provides an overview of how the tool works, and same examples of usage.
 
-[![Link to 'fMRIPrepCleanup: Instructions for use' video](https://www.youtube.com/watch?v=HuZPLBJvA9c/1.jpg)](https://www.youtube.com/watch?v=HuZPLBJvA9c)
+[![Link to 'fMRIPrepCleanup: Instructions for use' video](https://www.youtube.com/watch?v=HuZPLBJvA9c/0.jpg)](https://www.youtube.com/watch?v=HuZPLBJvA9c)
 
 ## Background
 
